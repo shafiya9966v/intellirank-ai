@@ -131,4 +131,4 @@ pytest tests/ -v
 
 ## Team
 
-**Force Push** — Shaik Shafiya (Leader), Prudhvi Yadav
+**Force Push** — Shaik Shafiya (Leader), Kandula Prudhvi
