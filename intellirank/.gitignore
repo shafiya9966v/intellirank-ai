@@ -1,0 +1,35 @@
+# Virtual environment
+intellirank_env/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Artifacts (too large for GitHub)
+artifacts/faiss.index
+artifacts/metadata.pkl
+artifacts/checkpoint.pkl
+
+# Keep jd_embedding.npy (only 1.7KB)
+!artifacts/jd_embedding.npy
+
+# Dataset (465MB — way too large)
+candidates.jsonl
+candidates.jsonl.gz
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test cache
+.pytest_cache/
+
+# Node
+node_modules/

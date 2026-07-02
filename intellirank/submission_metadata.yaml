@@ -1,0 +1,46 @@
+# IntelliRank AI — Submission Metadata
+# Redrob India Runs 2026 — Track 1: Data & AI Challenge
+
+team:
+  name: "Force Push"
+  leader: "Shaik Shafiya"
+  members:
+    - name: "Shaik Shafiya"
+      email: "shafiyashaik9966@gmail.com"
+      role: "Team Leader"
+    - name: "Kandula Prudhvi"
+      email: "prudhviyadav933@gmail.com"
+      role: "Member"
+
+submission:
+  track: "Track 1 — Data & AI"
+  challenge: "Intelligent Candidate Discovery"
+  submission_file: "submission.csv"
+  github_repo: "https://github.com/YOUR_USERNAME/intellirank-ai"
+  sandbox_url: "https://huggingface.co/spaces/YOUR_USERNAME/intellirank-ai"
+
+methodology_summary: |
+  IntelliRank AI uses a 5-layer intelligence pipeline to rank candidates
+  the way an expert recruiter would. Phase 1 (offline): stream 100K candidates,
+  build corpus text per candidate (title + summary + career descriptions),
+  embed using BGE-small-en-v1.5 (384-dim, CPU-efficient), build FAISS
+  IndexFlatIP, pre-compute 7-dimension structured scores and behavioral
+  multipliers. Phase 2 (< 5 min, CPU-only, no network): embed JD, FAISS
+  top-2000 semantic search, score each candidate as
+  (semantic×0.35 + structured×0.65) × honeypot_mult × behavioral_mult,
+  sort, take top 100, generate specific non-templated reasoning per candidate.
+  Key innovations: disqualifier detection (services-only career, LangChain-only,
+  wrong domain), honeypot detection (timeline impossibility, inflated skill claims),
+  multiplicative behavioral gating (availability is a gate, not a bonus).
+
+compute_environment:
+  language: "Python 3.11"
+  embedding_model: "BAAI/bge-small-en-v1.5"
+  vector_search: "FAISS IndexFlatIP"
+  gpu_used_during_ranking: false
+  network_used_during_ranking: false
+
+ai_tools_declared:
+  - "Claude (planning, architecture design, code review)"
+
+reproduce_command: "python rank.py --candidates ./candidates.jsonl --out ./submission.csv"

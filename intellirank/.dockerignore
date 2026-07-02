@@ -1,0 +1,9 @@
+__pycache__
+*.pyc
+*.pyo
+.pytest_cache
+.git
+node_modules
+frontend/node_modules
+*.egg-info
+.env

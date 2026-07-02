@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0046525,1,0.6516,"Senior Machine Learning Engineer at Genpact AI (6yr exp); with hands-on pgvector, Information Retrieval; strong embedding/retrieval & vector DB experience. Note: last active 35 days ago."
+CAND_0077337,2,0.6501,"Staff Machine Learning Engineer at Paytm (7yr exp); with hands-on LLMs, Information Retrieval; strong embedding/retrieval & vector DB experience. Note: last active 32 days ago."
+CAND_0039754,3,0.6431,"Senior Applied Scientist at Meta (16yr exp); with hands-on Python, Elasticsearch; strong embedding/retrieval & vector DB experience. Note: last active 44 days ago."
+CAND_0002025,4,0.6288,"Senior AI Engineer at Apple (6yr exp); with hands-on FAISS, Fine-tuning LLMs; strong embedding/retrieval & vector DB experience. Note: last active 32 days ago."
+CAND_0064326,5,0.6193,"Search Engineer at Sarvam AI (8yr exp); with hands-on RAG, Weaviate; strong embedding/retrieval & vector DB experience. Note: last active 37 days ago."
+CAND_0011687,6,0.6128,"Senior NLP Engineer at Niramai (8yr exp); with hands-on Semantic Search, PyTorch; strong embedding/retrieval & vector DB experience. Note: last active 48 days ago."
+CAND_0043637,7,0.6105,"Junior ML Engineer at Rephrase.ai (6yr exp); with hands-on PyTorch, Milvus; strong vector DB & ranking/search experience. Note: last active 34 days ago."
+CAND_0088025,8,0.6087,"Staff Machine Learning Engineer at Yellow.ai (9yr exp); with hands-on Elasticsearch, RAG; strong embedding/retrieval & vector DB experience. Note: 90-day notice period; last active 44 days ago."
+CAND_0065195,9,0.6082,"Search Engineer at CRED (5yr exp); with hands-on Hugging Face Transformers, LLMs; strong embedding/retrieval & vector DB experience. Note: last active 34 days ago."
+CAND_0070525,10,0.6046,"Senior Software Engineer (ML) at Mad Street Den (5yr exp); with hands-on Python, LLMs; strong embedding/retrieval & ranking/search experience. Note: last active 33 days ago."
+CAND_0081846,11,0.5823,"Strong embedding background (Information Retrieval, Vector Search)."
+CAND_0010257,12,0.5797,"Strong embedding background (Recommendation Systems, MLflow). Long notice period (120 days) may delay start."
+CAND_0093763,13,0.5759,"Strong vector DB background (FAISS, MLOps)."
+CAND_0008295,14,0.5739,"Strong vector DB background (QLoRA, Python)."
+CAND_0000031,15,0.5735,"Strong embedding background (MLflow, Embeddings)."
+CAND_0074225,16,0.5712,"Strong embedding background (Python, Milvus). Long notice period (120 days) may delay start."
+CAND_0072768,17,0.5684,"Strong vector DB background (PyTorch, Milvus). Long notice period (120 days) may delay start."
+CAND_0019480,18,0.5682,"Strong embedding background (TensorFlow, LLMs)."
+CAND_0050876,19,0.5670,"Strong embedding background (Qdrant, Sentence Transformers)."
+CAND_0018499,20,0.5666,"Strong embedding background (Recommendation Systems, Information Retrieval)."
+CAND_0077498,21,0.5657,"Strong embedding background (MLflow, Milvus)."
+CAND_0073204,22,0.5645,"Strong vector DB background (Information Retrieval, MLflow). Long notice period (120 days) may delay start."
+CAND_0077956,23,0.5617,"Strong vector DB background (TensorFlow, MLflow). Long notice period (120 days) may delay start."
+CAND_0054318,24,0.5610,"Strong vector DB background (LoRA, Information Retrieval)."
+CAND_0098454,25,0.5609,"Strong embedding background (OpenSearch, GANs)."
+CAND_0043860,26,0.5608,"Strong vector DB background (Semantic Search, Information Retrieval)."
+CAND_0054546,27,0.5601,"Strong vector DB background (Qdrant, Forecasting)."
+CAND_0006567,28,0.5597,"Strong embedding background (Ranking Systems, Content Matching)."
+CAND_0070514,29,0.5596,"Strong vector DB background (OpenSearch, MLflow)."
+CAND_0029367,30,0.5595,"Strong embedding background (Recommendation Systems, Sentence Transformers)."
+CAND_0015057,31,0.5589,Partial technical match — MLflow background with some embedding exposure.
+CAND_0067866,32,0.5568,Partial technical match — Qdrant background with some embedding exposure.
+CAND_0096142,33,0.5568,Partial technical match — RAG background with some embedding exposure.
+CAND_0099965,34,0.5558,Partial technical match — OpenSearch background with some vector_db exposure.
+CAND_0016659,35,0.5555,Partial technical match — Weaviate background with some vector_db exposure.
+CAND_0046132,36,0.5547,Partial technical match — MLflow background with some retrieval_ranking exposure.
+CAND_0079387,37,0.5513,Partial technical match — Sentence Transformers background with some embedding exposure.
+CAND_0004402,38,0.5495,Partial technical match — PEFT background with some vector_db exposure.
+CAND_0018080,39,0.5489,Partial technical match — LLMs background with some retrieval_ranking exposure.
+CAND_0005538,40,0.5488,Partial technical match — Information Retrieval Systems background with some embedding exposure.
+CAND_0036184,41,0.5488,Partial technical match — Semantic Search background with some embedding exposure.
+CAND_0024878,42,0.5482,Partial technical match — MLOps background with some vector_db exposure.
+CAND_0065786,43,0.5482,Partial technical match — Pinecone background with some vector_db exposure.
+CAND_0046064,44,0.5477,Partial technical match — Pinecone background with some embedding exposure.
+CAND_0075574,45,0.5459,Partial technical match — PyTorch background with some embedding exposure.
+CAND_0082086,46,0.5443,Partial technical match — FAISS background with some vector_db exposure.
+CAND_0011327,47,0.5418,Partial technical match — MLflow background with some vector_db exposure.
+CAND_0044213,48,0.5413,Partial technical match — Information Retrieval background with some retrieval_ranking exposure.
+CAND_0007596,49,0.5407,Partial technical match — Weaviate background with some vector_db exposure.
+CAND_0000969,50,0.5388,Partial technical match — Elasticsearch background with some vector_db exposure.
+CAND_0053605,51,0.5381,Partial technical match — RAG background with some retrieval_ranking exposure.
+CAND_0039546,52,0.5375,Partial technical match — Python background with some vector_db exposure.
+CAND_0053527,53,0.5368,Partial technical match — QLoRA background with some vector_db exposure.
+CAND_0073007,54,0.5349,Partial technical match — MLflow background with some embedding exposure.
+CAND_0015065,55,0.5331,Partial technical match — Information Retrieval background with some embedding exposure.
+CAND_0049540,56,0.5314,Partial technical match — pgvector background with some retrieval_ranking exposure.
+CAND_0033179,57,0.5303,Partial technical match — OpenSearch background with some vector_db exposure.
+CAND_0092706,58,0.5300,Partial technical match — MLOps background with some retrieval_ranking exposure.
+CAND_0057736,59,0.5299,Partial technical match — Qdrant background with some embedding exposure.
+CAND_0093401,60,0.5292,Partial technical match — Embeddings background with some embedding exposure.
+CAND_0073883,61,0.5286,Borderline fit — PEFT background with vector_db exposure but significant gaps remain.
+CAND_0043829,62,0.5283,Borderline fit — Qdrant background with vector_db exposure but significant gaps remain.
+CAND_0066690,63,0.5268,Borderline fit — Hugging Face Transformers background with vector_db exposure but significant gaps remain.
+CAND_0054394,64,0.5267,Borderline fit — Fine-tuning LLMs background with embedding exposure but significant gaps remain.
+CAND_0069905,65,0.5255,Borderline fit — Python background with embedding exposure but significant gaps remain.
+CAND_0025640,66,0.5228,Borderline fit — Elasticsearch background with vector_db exposure but significant gaps remain.
+CAND_0061257,67,0.5218,Borderline fit — Vector Representations background with embedding exposure but significant gaps remain.
+CAND_0052744,68,0.5217,Borderline fit — Sentence Transformers background with vector_db exposure but significant gaps remain.
+CAND_0020991,69,0.5205,Borderline fit — Python background with vector_db exposure but significant gaps remain.
+CAND_0079064,70,0.5205,Borderline fit — OpenSearch background with embedding exposure but significant gaps remain.
+CAND_0099675,71,0.5205,Borderline fit — Weaviate background with vector_db exposure but significant gaps remain.
+CAND_0034177,72,0.5194,Borderline fit — Diffusion Models background with vector_db exposure but significant gaps remain.
+CAND_0052706,73,0.5194,Borderline fit — Pinecone background with vector_db exposure but significant gaps remain.
+CAND_0080465,74,0.5193,Borderline fit — Milvus background with vector_db exposure but significant gaps remain.
+CAND_0055960,75,0.5191,Borderline fit — PyTorch background with vector_db exposure but significant gaps remain.
+CAND_0028422,76,0.5186,Borderline fit — Pinecone background with vector_db exposure but significant gaps remain.
+CAND_0008425,77,0.5180,Borderline fit — TensorFlow background with embedding exposure but significant gaps remain.
+CAND_0050454,78,0.5180,Borderline fit — Qdrant background with embedding exposure but significant gaps remain.
+CAND_0012840,79,0.5179,Borderline fit — OpenSearch background with embedding exposure but significant gaps remain.
+CAND_0073314,80,0.5172,Borderline fit — PEFT background with vector_db exposure but significant gaps remain.
+CAND_0010149,81,0.5169,Borderline fit — Milvus background with vector_db exposure but significant gaps remain.
+CAND_0099806,82,0.5169,Borderline fit — Qdrant background with embedding exposure but significant gaps remain.
+CAND_0064888,83,0.5151,Borderline fit — MLflow background with embedding exposure but significant gaps remain.
+CAND_0071974,84,0.5139,Borderline fit — PEFT background with embedding exposure but significant gaps remain.
+CAND_0078002,85,0.5139,Borderline fit — QLoRA background with embedding exposure but significant gaps remain.
+CAND_0042506,86,0.5135,Borderline fit — FAISS background with embedding exposure but significant gaps remain.
+CAND_0030468,87,0.5126,Borderline fit — OpenSearch background with vector_db exposure but significant gaps remain.
+CAND_0084819,88,0.5126,Borderline fit — LoRA background with embedding exposure but significant gaps remain.
+CAND_0041918,89,0.5108,Borderline fit — Semantic Search background with retrieval_ranking exposure but significant gaps remain.
+CAND_0095528,90,0.5108,Borderline fit — pgvector background with embedding exposure but significant gaps remain.
+CAND_0051936,91,0.5107,Borderline fit — Python background with embedding exposure but significant gaps remain.
+CAND_0093912,92,0.5106,Borderline fit — Milvus background with embedding exposure but significant gaps remain.
+CAND_0071131,93,0.5103,Borderline fit — LLMs background with retrieval_ranking exposure but significant gaps remain.
+CAND_0039838,94,0.5096,Borderline fit — QLoRA background with embedding exposure but significant gaps remain.
+CAND_0090300,95,0.5096,Borderline fit — Fine-tuning LLMs background with vector_db exposure but significant gaps remain.
+CAND_0047521,96,0.5094,Borderline fit — RAG background with embedding exposure but significant gaps remain.
+CAND_0044222,97,0.5083,Borderline fit — Fine-tuning LLMs background with embedding exposure but significant gaps remain.
+CAND_0035879,98,0.5074,Borderline fit — Python background with vector_db exposure but significant gaps remain.
+CAND_0068811,99,0.5074,Borderline fit — Weaviate background with embedding exposure but significant gaps remain.
+CAND_0011643,100,0.5071,Borderline fit — Pinecone background with vector_db exposure but significant gaps remain.
